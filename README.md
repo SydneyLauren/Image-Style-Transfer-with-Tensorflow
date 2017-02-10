@@ -1,5 +1,7 @@
 ### Style Transfer with Tensorflow
 
+<img src="image_output/result_Seattle_Nechita/result.png" width="715"/>
+
 First and foremost, you should know that I did *not* write the code to perform the style transfer myself. I am implementing some terrific work found here https://github.com/cysmith/neural-style-tf to use tensorflow to transfer photographs into they style of some artists that I enjoy.
 
 
